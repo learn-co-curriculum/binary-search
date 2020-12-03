@@ -19,6 +19,7 @@ if __FILE__ == $PROGRAM_NAME
   # Don't forget to add your own!
 
   # UNCOMMENT FOR BONUS
+  # puts
   # puts "Expecting: 0"
   # puts "=>", binary_search_index([1, 2, 3], 1)
 

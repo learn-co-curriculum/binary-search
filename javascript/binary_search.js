@@ -18,6 +18,7 @@ if (require.main === module) {
   console.log("=>", binarySearch([3, 5, 9], 10));
 
   // UNCOMMENT FOR BONUS
+  // console.log("");
   // console.log("Expecting: 0");
   // console.log("=>", binarySearchIndex([1, 2, 3], 1));
 
