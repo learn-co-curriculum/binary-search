@@ -108,8 +108,8 @@ Also take some time to plot out what's happening on paper using a small input as
 Can you modify the algorithm to return the index of the target? If the target isn't in the input Array, return -1. For the bonus, copy your code into the function called `binary_search_index`/`binarySearchIndex`. That way all of the tests will run correctly.
 
 ```
-Input: arr = [1, 2, 3], target = 3
-Output: 2
+Input: arr = [1, 2, 3], target = 1
+Output: 0
 
 Input: arr = [4, 7, 20], target = 100
 Output: -1
