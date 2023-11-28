@@ -1,4 +1,4 @@
-const { binarySearch, binarySearchIndex} = require("../../solutions/binary_search");
+const { binarySearch, binarySearchIndex} = require("../../javascript/binary_search");
 
 describe("binarySearch", () => {
   test("can handle an empty input list", () => {
